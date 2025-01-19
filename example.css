@@ -1,0 +1,25 @@
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
