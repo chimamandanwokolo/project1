@@ -1,0 +1,21 @@
+p {
+  color: red;
+  background-color: blue;
+}
+div {
+  color: orange;
+  background-color: black;
+}
+.Chimamanda {
+  color: red;
+  background-color: green;
+}
+#Apples {
+  width: 250px;
+  border-radius: 100%;
+}
+#Banana {
+  color: yellow;
+  background-color: greenyellow;
+  writing-mode: initial;
+}
